@@ -22,10 +22,6 @@ from IPython.display import Image
 
 ```
 
-
-<script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script><script type="text/javascript">if (window.MathJax) {MathJax.Hub.Config({SVG: {font: "STIX-Web"}});}</script><script>requirejs.config({paths: { 'plotly': ['https://cdn.plot.ly/plotly-latest.min']},});if(!window._Plotly) {require(['plotly'],function(plotly) {window._Plotly=plotly;});}</script>
-
-
 This is a notebook example of how to use the RandomMatrix code for multifractality in complex networks. The code is developed in MATLAB, and some toolboxes are necessary to run the commands. 
 
 
