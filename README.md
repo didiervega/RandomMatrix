@@ -81,7 +81,7 @@ matlab -nodisplay -nodesktop -nosplash -r "try; RandomMatrix.getDqAlphaGraphMAT(
 It creates a figure that shows the multifractal dimensions $D_q$ vs $q$ for our model. (It will take a while)
 
 # References
-You can use this code as it is for academic purpose. If you find it useful for your research, we appreciate your reference to our work Multifractality in random networks with power-law decaying bond strengths:
+You can use this code as it is for academic purpose. If you found it useful for your research, we appreciate your reference to our work Multifractality in random networks with power-law decaying bond strengths:
 
 [1] Didier A. Vega-Oliveros, J. A. Méndez-Bermúdez, and Francisco A. Rodrigues. Phys. Rev. E 99, 042303. https://doi.org/10.1103/PhysRevE.99.042303
 
